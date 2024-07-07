@@ -29,7 +29,7 @@
 
 Изучаю Python:
 ![15%](https://progress-bar.dev/15/?title=LVL1)
-![0%](https://progress-bar.dev/0/?title=LVL2)
-![0%](https://progress-bar.dev/0/?title=LVL3)
+![50%](https://progress-bar.dev/50/?title=LVL2)
+![75%](https://progress-bar.dev/75/?title=LVL3)
 
 Спасибо за посещение моего профиля! 
